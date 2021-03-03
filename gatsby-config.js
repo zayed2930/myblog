@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Gatsby Tech Blog`,
     author: {
       name: `Mohammad Zayed`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who lives and works in Doha, Qatar building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://zayedtechblog.ml/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `zayedrulz`,
     },
   },
   plugins: [
